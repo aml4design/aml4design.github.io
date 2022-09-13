@@ -3,7 +3,7 @@ layout: default
 title: Individual Assignment
 nav_order: 1
 grand_parent: "Assignments"
-parent: "Assignment 2: Text Processing"
+parent: "Assignment 1: Text Processing"
 ---
 
 # Individual Assignment

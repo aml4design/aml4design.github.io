@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Assignment 1: Image Processing Methods for IPPs"
+title: "Assignment 2: Image Processing Methods for IPPs"
 has_children: true
-nav_order: 1
+nav_order: 2
 parent: "Assignments"
 ---
 

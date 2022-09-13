@@ -3,7 +3,7 @@ layout: default
 title: Group Assignment
 nav_order: 2
 grand_parent: "Assignments"
-parent: "Assignment 1: Image Processing Methods for IPPs"
+parent: "Assignment 2: Image Processing Methods for IPPs"
 ---
 
 # Group Assignment

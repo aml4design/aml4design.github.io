@@ -3,7 +3,7 @@ layout: default
 title: Grading Rubric (Group Assignment)
 nav_order: 3
 grand_parent: "Assignments"
-parent: "Assignment 2: Text Processing"
+parent: "Assignment 1: Text Processing"
 ---
 
 # Grading Rubric (Group Assignment)

@@ -3,7 +3,7 @@ layout: default
 title: Group Assignment
 nav_order: 2
 grand_parent: "Assignments"
-parent: "Assignment 2: Text Processing"
+parent: "Assignment 1: Text Processing"
 ---
 
 # Group Assignment
