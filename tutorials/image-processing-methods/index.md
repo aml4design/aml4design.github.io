@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Tutorial 1: Image Processing Methods for IPPSs"
+title: "Tutorial 2: Image Processing Methods for IPPSs"
 has_children: true
-nav_order: 1
+nav_order: 2
 parent: "Tutorials"
 ---
 
