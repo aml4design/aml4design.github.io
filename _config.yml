@@ -1,9 +1,9 @@
 # theme: just-the-docs
 remote_theme: pmarsceill/just-the-docs
 
-title: ML4Design
-description: Machine Learning for Design
-url: "https://ml4design.github.io"
+title: AML4Design
+description: Advanced Machine Learning for Design
+url: "https://aml4design.github.io"
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE", "lib/", "bin/", "README.md", "Rakefile"
