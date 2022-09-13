@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Lecture 3: Image Processing Methods"
+title: "Lecture 5: Image Processing Methods"
 has_children: false
 parent: "Lectures"
-nav_order: 3
+nav_order: 5
 ---
 
 # Image Processing Methods
@@ -21,7 +21,7 @@ nav_order: 3
 
 ## Lecture Slides
 
-- [Lecture 3 Slides]({{site.baseurl}}/assets/slides/ML4D-L3.pdf) (PDF - 47 Mb)
+- [Lecture 5 Slides]({{site.baseurl}}/assets/slides/ML4D-L3.pdf) (PDF - 47 Mb)
 
 ## Lecture Notes
 

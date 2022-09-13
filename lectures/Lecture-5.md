@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Lecture 5: Natural Language Processing"
+title: "Lecture 3: Natural Language Processing"
 has_children: false
 parent: "Lectures"
-nav_order: 5
+nav_order: 3
 ---
 
 # Natural Language Methods
@@ -19,7 +19,7 @@ nav_order: 5
 
 ## Lecture Slides
 
-- [Lecture 5 Slides]({{site.baseurl}}/assets/slides/ML4D-L5.pdf) (PDF - 30 Mb)
+- [Lecture 3 Slides]({{site.baseurl}}/assets/slides/ML4D-L5.pdf) (PDF - 30 Mb)
 
 ## Lecture Notes
 
