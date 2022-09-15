@@ -36,7 +36,7 @@ Before attending the tutorial, complete the tasks listed in the following subsec
 
 In this task, we will help you familiarize yourself with the Hugging Face tool. First, download the trash bin images from the link below on GitHub. The GitHub platform is a service for hosting code and data, largely used by the open-source community.
 
- - Link to code and images: [https://github.com/yenchiah/image-processing-tutorial](https://github.com/yenchiah/image-processing-tutorial)
+ - Link to code and images: [https://github.com/aml4design/image-processing-tutorial](https://github.com/aml4design/image-processing-tutorial)
 
 ![creating new file]({{site.baseurl}}/assets/images/image7.png)
 

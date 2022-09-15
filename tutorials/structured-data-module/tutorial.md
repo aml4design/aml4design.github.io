@@ -34,7 +34,7 @@ The design brief is in the introduction section of the paper as indicated in Tas
 
 Next, copy the following GitHub URL and paste it into Replit’s user interface to import the code and data from the repository.
 
-- Link to the GitHub repository: [https://github.com/yenchiah/smell-pittsburgh-tutorial](https://github.com/yenchiah/smell-pittsburgh-tutorial)
+- Link to the GitHub repository: [https://github.com/aml4design/smell-pittsburgh-tutorial](https://github.com/aml4design/smell-pittsburgh-tutorial)
 
 ![module-3-replit-import]({{site.baseurl}}/assets/images/module-3-replit-import.png)
 

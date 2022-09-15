@@ -29,13 +29,13 @@ In this task, we will teach you how to automate the image processing pipeline us
 
 The above figure shows the pipeline. The Python code and the bike image data sit on your coding environment, which is the Replit online tool in our case. Then, when running the code from Replit, the computer that hosts your code will request the Hugging Face API to send and process your data. Once the request is confirmed valid (for example, through the API token), the Hugging Face API will tell a deployed machine learning model to process your data. Finally, the Hugging Face API will collect the results returned by the model and return the results to your coding environment.
 
-First, [check the code on Replit](https://replit.com/@ML4Design/image-processing-tutorial). This repl contains the code and images that we want to use in this task. Press the fork button and it will copy the code and images to your own Replit project. 
+First, [check the code on Replit](https://replit.com/@aml4design/image-processing-tutorial). This repl contains the code and images that we want to use in this task. Press the fork button and it will copy the code and images to your own Replit project. 
 
 ![replit how to]({{site.baseurl}}/assets/images/fork_button.png)
 
 <!-- First, download the bike images from the link below. The bike images are in the “data/bike” folder. You should already have downloaded the data in the Preparation section. -->
 
- - The code and images can also be found here: [https://github.com/yenchiah/image-processing-tutorial](https://github.com/yenchiah/image-processing-tutorial)
+ - The code and images can also be found here: [https://github.com/aml4design/image-processing-tutorial](https://github.com/aml4design/image-processing-tutorial)
 
 <!-- Next, create a new project on Replit and name it “image-processing”, as shown in the following screenshot. Remember to use the “Python” template. -->
 
