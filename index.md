@@ -7,7 +7,7 @@ nav_order: 0
 # Welcome to the 2022/2023 Edition of the Advanced Machine Learning for Design Course
 
 <p align="center">
-  <img src="/assets/images/ml4d_home.png" />
+  <img src="/assets/images/aml4d_home.jpg" />
 </p>
 
 ## The Course
