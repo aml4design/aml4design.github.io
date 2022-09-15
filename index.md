@@ -12,35 +12,53 @@ nav_order: 0
 
 ## The Course
 
-**ID5515 Advanced Machine Learning for Design** is a technology elective embedded in the 2nd year of the Master of Industrial Design Engineering at the Delft University of Technology. 
+The elective of **ID5515 Advanced Machine Learning for Design (AML4D)** is embedded in the 1st
+year of the *Integrated Product Design* (IPD) MSc programme.
 
-The course provides students with the knowledge required to understand, design, and evaluate machine learning systems in the context of the design of intelligent products, services, and systems (iPSSs). 
-
-Machine learning (ML) is a computational approach that aims at “giving computers the ability to learn without being explicitly programmed” (A. Samuel, 1959). Smart thermostats, voice-based personal assistants, autonomous vehicles, traffic control systems, online social networks, web shopping platforms, content creation platforms, personal health appliances: much of current and future iPSSs are powered by ML technology, influencing, and shaping our interests, habits, lives, and society.  
-
-To meaningfully envision and design future iPSSs that are beneficial and useful to people and society, designers must: 
-- engage with the details of how ML systems “see” the world, “reason” about it, and interact with it
-- experience the quirks, biases, and failures of ML technology; 
-- contend with how agency, initiative, trust, and explainability mediate the interaction between human and iPSSs;
-- and understand how functionalities enabled by ML can be designed in iPSSs. 
-
-Students in this course gain practical experience with ML technology and learn how to think critically of what ML systems can do, and how they could and should be integrated in iPSSs.
+This advanced technology elective will provide students with the knowledge required to
+understand, design, and evaluate machine learning systems in the context of the design of
+intelligent products, services, and systems (iPSSs). Machine Learning (ML) is a computational
+approach that aims at “giving computers the ability to learn without being explicitly
+programmed” (A. Samuel, 1959). Smart thermostats, voice-enabled personal assistants,
+autonomous vehicles, traffic control systems, online social networks, web-shopping platforms,
+content-creation platforms, personal-health applications are just a few examples of
+iPSSs powered by ML technology. Consequently, ML technology is influencing, and shaping
+our interests, habits, lives, and society. To meaningfully envision and design future
+iPSSs that are beneficial and useful to people and society, designers must: engage with the
+details of how ML systems “see” the world, “reason” about it, and interact with it; experience
+the quirks, biases, and failures ofML technology; contend with how agency, initiative,
+trust, and explainability mediate the interaction between human and iPSSs; and understand
+how functionalities enabled by ML can be designed in iPSSs. Students in this course
+will gain practical experience with ML technology and learn how to think critically of what
+ML systems can do, and how they could and should be integrated in iPSSs.
 
 ## The Website
 
 This website contains all the materials required to attend and succefully complete the course. 
 
-The course is organized into an introductory week and 4 modules, consisting of weekly cycles mixing theory and practice. 
+The course is organized into an introductory week and 3x modules, consisting of weekly cycles, combining theory and practice. The final exam will take place on Friday, Nov. 11,
+2022.
 
-- **Introduction: AI and ML in intelligent products, services, and systems (design)**. In this module, students are introduced to the role that Artificial Intelligence and, more specifically, Machine Learning technology play in iPSSs, in their design process, and in their lifecycle ([Lecture 1]({{site.baseurl}}/lectures/Lecture-1/)). The most important ML concepts, terminology, paradigms, and methods will also be described and exemplified ([Lecture 2]({{site.baseurl}}/lectures/Lecture-2/)).
+- **Introduction (Week 1): AI and ML in iPSSs**. In this week, you will be introduced to the role that Artificial Intelligence and, more specifically,
+Machine Learning technology play in iPSSs, in their design process, and in their lifecycle.
+The most important ML concepts, terminology, paradigms, and methods will also be
+described and exemplified.
 
-- **Module 1: Natural Language Processing methods for iPSSs**. In this module, you will be introduced to existing ML techniques for text processing (parsing, analysis, generation), and will practice their use in realistic design contexts ([Lecture 3]({{site.baseurl}}/lectures/Lecture-5/), [Lecture 4]({{site.baseurl}}/lectures/Lecture-6/), [Tutorial 1]({{site.baseurl}}/tutorials/text-processing-module/)). 
+- **Module 1 (Weeks 2 & 3): Text Processingmethods for iPSSs**. In these two weeks, you will be introduced to existing ML techniques for text processing
+(parsing, analysis, generation), and will practice their use in realistic design contexts.
 
-- **Module 2 : Image Processing methods for iPSSs**. In this module, you will be introduced to existing ML techniques for image processing (acquisition, analysis, generation), and will practice their use in realistic design contexts ([Lecture 5]({{site.baseurl}}/lectures/Lecture-3/), [Lecture 6]({{site.baseurl}}/lectures/Lecture-4/), [Tutorial 2]({{site.baseurl}}/tutorials/image-processing-methods/)).
+- **Module 2 (Weeks 4 & 5): Image Processing methods for iPSSs**.
+In these two weeks, you will be introduced to existing ML techniques for image processing
+(acquisition, analysis, generation), and will practice their use in realistic design contexts.
 
-- **Module 3: Design and Develop Machine Learning Models**. In this module you will deepen your knowledge in how machine learning models could be trained, and on how their performance could be evaluated. Specific attention will be devoted to the task of training data design, generation, and usage in realistic adoption scenarios ([Lecture 7]({{site.baseurl}}/lectures/Lecture-7/), [Lecture 8]({{site.baseurl}}/lectures/Lecture-8/), [Tutorial 3]({{site.baseurl}}/tutorials/structured-data-module/)). 
-
-- **Module 4: Designing iPSSs that include Machine Learning technology**. In this final module, you will learn how to design (using human-centered approaches) intelligent products, services, and systems. You will understand which issues could impact the experience of people when interacting with iPSSs and learn to assess how ML technology can and should be integrated into iPSSs ([Lecture 9]({{site.baseurl}}/lectures/Lecture-9/)).  
+- **Module 3 (Weeks 6 & 7): Train, Evaluate, and Integrate MLModels**.
+In these weeks you will deepen your knowledge in how machine learning models could
+be trained, and on how their performance could be evaluated. Specific attention will be
+devoted to the task of training data design, generation, and usage in realistic adoption scenarios.
+Finally, youwill learn howto design (using human-centered approaches) intelligent
+products, services, and systems. Students will understand which issues could impact the
+experience of people when interacting with iPSSs and learn to assess how ML technology
+can and should be integrated into iPSSs.
 
 Aspects related to ethics, bias, transparency, and fairness in machine learning will be pervasively addressed throughout the course.  
 
