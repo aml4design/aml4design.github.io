@@ -55,7 +55,7 @@ In these two weeks, you will be introduced to existing ML techniques for image p
 In these weeks you will deepen your knowledge in how machine learning models could
 be trained, and on how their performance could be evaluated. Specific attention will be
 devoted to the task of training data design, generation, and usage in realistic adoption scenarios.
-Finally, youwill learn howto design (using human-centered approaches) intelligent
+Finally, you will learn how to design (using human-centered approaches) intelligent
 products, services, and systems. Students will understand which issues could impact the
 experience of people when interacting with iPSSs and learn to assess how ML technology
 can and should be integrated into iPSSs.
