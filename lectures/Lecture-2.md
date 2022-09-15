@@ -2,8 +2,9 @@
 layout: default
 title: "Lecture 2: Fundamentals of ML"
 has_children: false
-parent: "Lectures"
+# parent: "Lectures"
 nav_order: 2
+nav_exclude: true
 ---
 
 # Fundamentals of Machine Learning

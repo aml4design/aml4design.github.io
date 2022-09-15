@@ -2,8 +2,9 @@
 layout: default
 title: "Lecture 9: Designing iPSSs that include Machine Learning technology"
 has_children: false
-parent: "Lectures"
+# parent: "Lectures"
 nav_order: 9
+nav_exclude: true
 ---
 
 # Designing iPSSs that include Machine Learning technology

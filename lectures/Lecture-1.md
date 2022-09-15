@@ -2,8 +2,9 @@
 layout: default
 title: "Lecture 1: AI and ML in IPSSs (design)"
 has_children: false
-parent: "Lectures"
+# parent: "Lectures"
 nav_order: 1
+nav_exclude: true
 ---
 
 # Artificial Intelligence and Machine Learning in Intelligent Products, Services, and Systems (design)

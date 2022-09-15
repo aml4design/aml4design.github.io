@@ -2,8 +2,9 @@
 layout: default
 title: "Lecture 6: Image Processing Methods"
 has_children: false
-parent: "Lectures"
+# parent: "Lectures"
 nav_order: 6
+nav_exclude: true
 ---
 
 # Image Processing Methods
