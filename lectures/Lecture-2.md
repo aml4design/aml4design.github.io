@@ -24,7 +24,7 @@ nav_order: 2
 
 ## Lecture Slides
 
-- [Lecture 2 Slides]({{site.baseurl}}/assets/slides/AML4D-L2.pdf) (PDF - 16 Mb)
+- [Lecture 2 Slides]({{site.baseurl}}/assets/slides/AML4D-L2.pdf) (PDF-16 Mb)
 
 ## Lecture Notes
 
