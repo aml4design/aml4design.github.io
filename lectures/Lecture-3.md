@@ -1,28 +1,29 @@
 ---
 layout: default
-title: "Lecture 5: Image Processing Methods"
+title: "Lecture 3 - Machine Learning and Natural 
+Language Processing / Part 2"
 has_children: false
-# parent: "Lectures"
-nav_order: 5
-nav_exclude: true
+parent: "Lectures"
+nav_order: 3
+# nav_exclude: false
 ---
 
-# Image Processing Methods
+# Machine Learning and Natural Language Processing
 
 ## Preparatory Reading Material
 
-- A good list of [videos showing application examples](https://chooch.ai/computer-vision/computer-vision-demo-videos/) of Computer Vision technology. 
+- [The Social Impact of Natural Language Processing](https://aclanthology.org/P16-2096.pdf)
 
 ## Experience
 
-- [Microsofor Computer Vision Demos](https://aidemos.microsoft.com/computer-vision)
-- [Microsoft Video Analyser Demo](https://aidemos.microsoft.com/video-indexer/18ac02a461/faces)
-
-- [MorphCast JS SDK Demo](https://demo.morphcast.com/sdk-features/index.html?video=https%3A%2F%2Fdemo.morphcast.com%2Fsdk-features%2FBreeze_Woodson.mp4) 
+- [Google NLP API Demo](https://cloud.google.com/natural-language#section-2)
+- [IBM Watson NLP Demo](https://www.ibm.com/demos/live/natural-language-understanding/self-service/home)
+- [Google N-Gram Viewer](https://books.google.com/ngrams)
+- [WebVectors - Online Word Embeddings Demo](http://vectors.nlpl.eu/explore/embeddings/en/)
 
 ## Lecture Slides
 
-- [Lecture 5 Slides]({{site.baseurl}}/assets/slides/ML4D-L3.pdf) (PDF - 47 Mb)
+- [Lecture 3 Slides]({{site.baseurl}}/assets/slides/AML4D-L3.pdf) (PDF - 3 Mb)
 
 ## Lecture Notes
 
@@ -30,4 +31,8 @@ __Work in Progress__
 
 ## Additional Reading Material
 
-- [Supervised Learning](http://www.trustworthymachinelearning.com/trustworthymachinelearning-07.htm)
+<!-- - [Natural Language Processing - Chapter 1](https://github.com/jacobeisenstein/gt-nlp-class/tree/master/notes) - Jacob Eisenstein, 2013.
+- [Bo: An intelligent network agent to promote physical activity in children with Congenital Heart Defects](http://resolver.tudelft.nl/uuid:fd895415-c353-41d5-8430-f0a67fd40ad4) - Hosana Morales Ornelas, Chapter 2
+- [OpenAI GPT-3 - Good At Almost Everything!](https://www.youtube.com/watch?v=_x9AwxfjxvE) - A video explaining some interesting use of GPT3 -->
+- [Word2Vec Tutorial - The Skip-Gram Model](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
+- [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://arxiv.org/abs/1607.06520)
