@@ -21,7 +21,8 @@ In the next four Tasks, we will help you familiarize yourself with some simple t
 ### Warm-up Game: Before everything let’s try to think like a … machine!  
   
 
- - Go to [https://huggingface.co/gpt2](https://huggingface.co/gpt2). Remember, you have already used the Hugging Face tool in the image-processing tutorial. Here, we will see how we could use it for text-processing tasks.
+ - Go to [https://huggingface.co/gpt2](https://huggingface.co/gpt2). 
+ <!-- Remember, you have already used the Hugging Face tool in the image-processing tutorial. Here, we will see how we could use it for text-processing tasks. -->
  - On the right side of your screen, you will see written “**Hosted Inference API**” and below a text box where you can insert  **TEXT**. If you insert some text in the text box and press “**Compute**” a  GPT-2 model will try to guess the next words and sentences.
  - Your first task is simple: **make the model say “design”** (as indicated in the model output in the following screenshot). Keep in mind that you are not allowed to use the word “design” or any of its derivatives. If you succeed, note down the text you used so you can share it during the tutorial session.
  - Reflect on the reasoning you followed in order to accomplish this task.

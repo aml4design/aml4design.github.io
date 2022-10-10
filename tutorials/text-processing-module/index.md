@@ -6,7 +6,7 @@ nav_order: 1
 parent: "Tutorials"
 ---
 
-# Tutorial 2: Text Processing
+# Tutorial 1: Text Processing
 
 ## Learning Goals
 
