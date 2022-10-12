@@ -6,7 +6,7 @@ nav_order: 2
 parent: "Tutorials"
 ---
 
-# Tutorial 1: Image Processing Methods for Intelligent Product Services and Systems
+# Tutorial 2: Image Processing Methods for Intelligent Product Services and Systems
 
 ## Learning Goals
 

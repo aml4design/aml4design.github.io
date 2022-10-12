@@ -6,7 +6,7 @@ nav_order: 3
 parent: "Tutorials"
 ---
 
-# Tutorial 1: Tutorial 3: Creating Machine Learning Models with Structured Data
+# Tutorial 3: Creating Machine Learning Models with Structured Data
 
 ## Learning Goals
 
