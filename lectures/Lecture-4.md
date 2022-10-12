@@ -1,30 +1,27 @@
 ---
 layout: default
-title: "Lecture 6: Image Processing Methods"
+title: "Lecture 4: Machine Learning for Image Processing (part 1)"
 has_children: false
-# parent: "Lectures"
-nav_order: 6
-nav_exclude: true
+parent: "Lectures"
+nav_order: 4
+# nav_exclude: true
 ---
 
 # Image Processing Methods
 
 ## Preparatory Reading Material
 
-- [The Truth About Cats and Dogs](https://www.robots.ox.ac.uk/~vgg/publications/2011/Parkhi11/parkhi11.pdf)
-- [Hubel and Wiesel Cat Experiment](https://www.youtube.com/watch?v=IOHayh06LJ4)
-- [Generative Visual Manipulation on the Natural Image Manifold](https://www.youtube.com/watch?v=9c4z6YsBGQ0)
+- A good list of [videos showing application examples](https://chooch.ai/computer-vision/computer-vision-demo-videos/) of Computer Vision technology. 
 
 ## Experience
 
-- [A curated list of GAN applications](https://github.com/nashory/gans-awesome-applications)
-- [IBM-MIT Create Images with AI](https://gan-paint-demo.mybluemix.net)
-- [Linear Classification Loss Visualization](http://vision.stanford.edu/teaching/cs231n-demos/linear-classify/)
-- [GAN Lab](https://poloclub.github.io/ganlab/) - a demonstrator of how GANs work
+- [Microsofor Computer Vision Demos](https://aidemos.microsoft.com/computer-vision)
+- [Microsoft Video Analyser Demo](https://aidemos.microsoft.com/video-indexer/18ac02a461/faces)
+- [MorphCast JS SDK Demo](https://demo.morphcast.com/sdk-features/index.html?video=https%3A%2F%2Fdemo.morphcast.com%2Fsdk-features%2FBreeze_Woodson.mp4) 
 
 ## Lecture Slides
 
-- [Lecture 6 Slides]({{site.baseurl}}/assets/slides/ML4D-L4.pdf) (PDF - 64 Mb)
+- [Lecture 4 Slides]({{site.baseurl}}/assets/slides/AML4D-L4.pdf) (PDF - 15 Mb)
 
 ## Lecture Notes
 
@@ -32,7 +29,4 @@ __Work in Progress__
 
 ## Additional Reading Material
 
-- [A beginner's guide to understanding Convolutional Neural Networks](https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/)
-- [Three Ways Computer Vision Is Transforming Marketing](https://www.forbes.com/sites/forbestechcouncil/2020/04/03/three-ways-computer-vision-is-transforming-marketing/?sh=71b3adef214b)
-- Interested in how human vision works? Two resources: [Visual Processing: Eye and Retina](https://nba.uth.tmc.edu/neuroscience/m/s2/chapter14.html),[Visual Processing: Cortical Pathways](https://nba.uth.tmc.edu/neuroscience/m/s2/chapter15.html)
-- [Making AI Art Absolute Beginner's Tutorial](https://www.youtube.com/watch?v=hlWJHTlk1ME&ab_channel=Neuraldivergent%3AAIGeneratedArt) - Credits to Fabian Hoogendijk for suggesting the link
+- [Supervised Learning](http://www.trustworthymachinelearning.com/trustworthymachinelearning-07.htm)
