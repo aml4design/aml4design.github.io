@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Lecture 2: Machine Learning and Natural
-Language Processing / Part 1"
+Language Processing (part 1)"
 has_children: false
 parent: "Lectures"
 nav_order: 2
