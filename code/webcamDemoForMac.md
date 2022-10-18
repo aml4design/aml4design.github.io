@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Webcam Demo for Mac"
+title: "Object-Detection Webcam Demo"
 has_children: false
 parent: "Code"
 nav_order: 1
 # nav_exclude: true
 ---
 
-This is the code snippet of the demo that will be shown in Lecture 5.  
+This is the code snippet for the object-detection demo using the webcam shown in Lecture 5.  
 
 ```python
 # Before running this file, run following commands in your terminal:
