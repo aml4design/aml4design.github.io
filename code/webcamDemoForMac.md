@@ -7,7 +7,9 @@ nav_order: 1
 # nav_exclude: true
 ---
 
-This is the code snippet for the object-detection demo using the webcam shown in Lecture 5.  
+This is the code snippet for the object-detection demo using the webcam shown in Lecture 5.
+The following code has been executted in a clean Python environment using the Anaconda Python distribution and the Spyder (v5.0.3) IDE.
+The code has been tested on a MacBook Pro (15-inch, 2019).
 
 ```python
 # Before running this file, run following commands in your terminal:
