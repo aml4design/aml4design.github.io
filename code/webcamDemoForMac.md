@@ -10,11 +10,18 @@ nav_order: 1
 This is the code snippet of the demo that will be shown in Lecture 5.  
 
 ```python
-# Before running this file, run following codes in your terminal:
+# Before running this file, run following commands in your terminal:
 # note that MPS(GPU) acceleration is available on MacOS 12.3+
 
 # conda install pytorch torchvision torchaudio -c pytorch-nightly 
+# conda install -c conda-forge opencv
+# conda install -c anaconda pandas
+# conda install -c conda-forge tqdm
+# conda install -c conda-forge matplotlib
+# conda install -c anaconda seaborny
+# conda install -c conda-forge python-utils
 # export PYTORCH_ENABLE_MPS_FALLBACK=1
+# Allow Anaconda to access Camera
 
 
 import torch
