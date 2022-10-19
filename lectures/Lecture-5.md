@@ -23,7 +23,7 @@ nav_order: 5
 
 ## Lecture Slides
 
-- [Lecture 4 Slides]({{site.baseurl}}/assets/slides/AML4D-L5.pdf) (PDF - 64 Mb)
+- [Lecture 5 Slides]({{site.baseurl}}/assets/slides/AML4D-L5.pdf) (PDF - 64 Mb)
 
 ## Lecture Notes
 
