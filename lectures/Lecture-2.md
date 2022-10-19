@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Lecture 2: Machine Learning and Natural
+title: "Lecture 2: Machine Learning for Natural
 Language Processing (part 1)"
 has_children: false
 parent: "Lectures"
@@ -8,7 +8,7 @@ nav_order: 2
 # nav_exclude: true
 ---
 
-#  Machine Learning and Natural Language Processing
+#  Machine Learning for Natural Language Processing
 
 <!-- ## Preparatory Reading Material -->
 
