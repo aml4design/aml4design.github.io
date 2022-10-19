@@ -1,26 +1,29 @@
 ---
 layout: default
-title: "Lecture 3: Natural Language Processing"
+title: "Lecture 5: Machine Learning for Image Processing (part 2)"
 has_children: false
-# parent: "Lectures"
-nav_order: 3
-nav_exclude: true
+parent: "Lectures"
+nav_order: 5
 ---
 
-# Natural Language Methods
+# Image Processing Methods
 
 ## Preparatory Reading Material
 
-- [The Social Impact of Natural Language Processing](https://aclanthology.org/P16-2096.pdf)
+- [The Truth About Cats and Dogs](https://www.robots.ox.ac.uk/~vgg/publications/2011/Parkhi11/parkhi11.pdf)
+- [Hubel and Wiesel Cat Experiment](https://www.youtube.com/watch?v=IOHayh06LJ4)
+- [Generative Visual Manipulation on the Natural Image Manifold](https://www.youtube.com/watch?v=9c4z6YsBGQ0)
 
 ## Experience
 
-- [Google NLP API Demo](https://cloud.google.com/natural-language#section-2)
-- [IBM Watson NLP Demo](https://www.ibm.com/demos/live/natural-language-understanding/self-service/home)
+- [A curated list of GAN applications](https://github.com/nashory/gans-awesome-applications)
+- [IBM-MIT Create Images with AI](https://gan-paint-demo.mybluemix.net)
+- [Linear Classification Loss Visualization](http://vision.stanford.edu/teaching/cs231n-demos/linear-classify/)
+- [GAN Lab](https://poloclub.github.io/ganlab/) - a demonstrator of how GANs work
 
 ## Lecture Slides
 
-- [Lecture 3 Slides]({{site.baseurl}}/assets/slides/ML4D-L5.pdf) (PDF - 30 Mb)
+- [Lecture 4 Slides]({{site.baseurl}}/assets/slides/AML4D-L5.pdf) (PDF - 64 Mb)
 
 ## Lecture Notes
 
@@ -28,6 +31,7 @@ __Work in Progress__
 
 ## Additional Reading Material
 
-- [Natural Language Processing - Chapter 1](https://github.com/jacobeisenstein/gt-nlp-class/tree/master/notes) - Jacob Eisenstein, 2013.
-- [Bo: An intelligent network agent to promote physical activity in children with Congenital Heart Defects](http://resolver.tudelft.nl/uuid:fd895415-c353-41d5-8430-f0a67fd40ad4) - Hosana Morales Ornelas, Chapter 2
-- [OpenAI GPT-3 - Good At Almost Everything!](https://www.youtube.com/watch?v=_x9AwxfjxvE) - A video explaining some interesting use of GPT3
+- [A beginner's guide to understanding Convolutional Neural Networks](https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/)
+- [Three Ways Computer Vision Is Transforming Marketing](https://www.forbes.com/sites/forbestechcouncil/2020/04/03/three-ways-computer-vision-is-transforming-marketing/?sh=71b3adef214b)
+- Interested in how human vision works? Two resources: [Visual Processing: Eye and Retina](https://nba.uth.tmc.edu/neuroscience/m/s2/chapter14.html),[Visual Processing: Cortical Pathways](https://nba.uth.tmc.edu/neuroscience/m/s2/chapter15.html)
+- [Making AI Art Absolute Beginner's Tutorial](https://www.youtube.com/watch?v=hlWJHTlk1ME&ab_channel=Neuraldivergent%3AAIGeneratedArt) - Credits to Fabian Hoogendijk for suggesting the link
