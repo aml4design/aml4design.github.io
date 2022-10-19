@@ -15,7 +15,7 @@ nav_order: 4
 
 ## Experience
 
-- [Microsofor Computer Vision Demos](https://aidemos.microsoft.com/computer-vision)
+- [Microsoft Computer Vision Demos](https://aidemos.microsoft.com/computer-vision)
 - [Microsoft Video Analyser Demo](https://aidemos.microsoft.com/video-indexer/18ac02a461/faces)
 - [MorphCast JS SDK Demo](https://demo.morphcast.com/sdk-features/index.html?video=https%3A%2F%2Fdemo.morphcast.com%2Fsdk-features%2FBreeze_Woodson.mp4) 
 
