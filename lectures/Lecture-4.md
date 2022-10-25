@@ -7,7 +7,7 @@ nav_order: 4
 # nav_exclude: true
 ---
 
-# Image Processing Methods
+# Machine Learning for Image Processing (part 1)
 
 ## Preparatory Reading Material
 
