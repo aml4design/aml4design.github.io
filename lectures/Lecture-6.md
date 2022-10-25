@@ -1,32 +1,37 @@
 ---
 layout: default
-title: "Lecture 4: Natural Language Processing"
+title: "Lecture 6: Train, Evaluate, and Integrate Machine Learning Models (part 1)"
 has_children: false
 # parent: "Lectures"
-nav_order: 4
-nav_exclude: true
+nav_order: 6
+nav_exclude: false
 ---
 
-# Natural Language Methods
+# Train, Evaluate, and Integrate Machine Learning Models /1
 
 ## Preparatory Reading Material
 
-- [Natural Language Processing in-and-for Design Research](https://arxiv.org/pdf/2111.13827.pdf) - L Siddharth, Lucienne T. M. Blessing, Jianxi Luo.
+-  [Smell Pittsburgh: Engaging Community Citizen Science for Air Quality](https://arxiv.org/pdf/1912.11936.pdf). Yen-Chia Hsu et al. 2020. ACM Transactions on Interactive Intelligent Systems. 10, 4, Article 32. DOI:https://doi.org/10.1145/3369397.
+- [Smell Pittsburgh: Data Analysis](https://smellpgh.org/analysis)
 
 ## Experience
 
-- [Google N-Gram Viewer](https://books.google.com/ngrams)
-- [WebVectors - Online Word Embeddings Demo](http://vectors.nlpl.eu/explore/embeddings/en/)
+- [Smell Pittsburgh Data Visualisation](https://smellpgh.org/visualization)
+- [Random Forest Demonstrator](https://cs.stanford.edu/~karpathy/svmjs/demo/demoforest.html)
+- [K-Means Clustering interactive Demo](https://www.naftaliharris.com/blog/visualizing-k-means-clustering/)
+- [Another k-means Demo](http://alekseynp.com/viz/k-means.html)
+- [Yet another interactive clustering demo](https://jydelort.appspot.com/resources/figue/demo.html)
 
 ## Lecture Slides
 
-- [Lecture 4 Slides]({{site.baseurl}}/assets/slides/ML4D-L6.pdf) (PDF - 6 Mb)
+- [Lecture 6 Slides]({{site.baseurl}}/assets/slides/AML4D-L6.pdf) (PDF - 22 Mb)
 
 ## Lecture Notes
 
 __Work in Progress__
 
-## Additional Reading Material
+## Additional Material
 
-- [Word2Vec Tutorial - The Skip-Gram Model](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
-- [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://arxiv.org/abs/1607.06520)
+- This is a list of datasets you can download and experiment with
+    - [Mall Customers Dataset](https://www.kaggle.com/shwetabh123/mall-customers): it contains information about people visiting the mall in a city. Columns include _gender_, _customer id_, _age_, _annual income_, and _spending score_. 
+    - [Wine Quality Dataset](https://archive.ics.uci.edu/ml/datasets/wine+quality): The dataset contains different chemical information about the wine. The dataset is suitable for classification and regression tasks.
