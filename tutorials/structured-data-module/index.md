@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Tutorial 3: Creating Machine Learning Models with Structured Data"
+title: "Tutorial 3: Training, Evaluating, and Integrating Machine Learning Models"
 has_children: true
 nav_order: 3
 parent: "Tutorials"
 ---
 
-# Tutorial 3: Creating Machine Learning Models with Structured Data
+# Tutorial 3: Training, Evaluating, and Integrating Machine Learning Models
 
 ## Learning Goals
 
