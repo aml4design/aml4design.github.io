@@ -7,7 +7,7 @@ nav_order: 6
 nav_exclude: false
 ---
 
-# Train, Evaluate, and Integrate Machine Learning Models /1
+# Train, Evaluate, and Integrate Machine Learning Models (part 1)
 
 ## Preparatory Reading Material
 
