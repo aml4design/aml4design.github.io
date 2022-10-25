@@ -6,7 +6,7 @@ parent: "Lectures"
 nav_order: 5
 ---
 
-# Image Processing Methods
+# Machine Learning for Image Processing (part 2)
 
 ## Preparatory Reading Material
 
