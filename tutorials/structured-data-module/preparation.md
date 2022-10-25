@@ -3,7 +3,7 @@ layout: default
 title: "Preparation"
 has_children: false
 nav_order: 1
-parent: "Tutorial 3: Creating Machine Learning Models with Structured Data"
+parent: "Tutorial 3: Training, Evaluating, and Integrating Machine Learning Models"
 grand_parent: "Tutorials"
 ---
 # Preparation
