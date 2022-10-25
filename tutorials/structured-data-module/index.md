@@ -10,7 +10,7 @@ parent: "Tutorials"
 
 ## Learning Goals
 
-Welcome to the structured data module. This handout contains information for the preparation, tutorial, individual assignment, and group assignment. This module has the following learning goals:
+Welcome to module 3: Training, Evaluating, and Integrating Machine Learning Models. This handout contains information for the preparation, tutorial, individual assignment, and group assignment. This module has the following learning goals:
 
  - **Goal 1**: Understand how to design experiments using machine learning pipelines to help stakeholders make sense of structured data from product-service systems
  - **Goal 2**: Be able to conduct experiments to critically reflect and understand how features and evaluation metrics affect the performance of machine learning models
