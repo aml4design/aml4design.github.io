@@ -8,7 +8,7 @@ nav_order: 2
 # nav_exclude: true
 ---
 
-#  Machine Learning for Natural Language Processing
+#  Machine Learning for Natural Language Processing (part 1)
 
 <!-- ## Preparatory Reading Material -->
 
