@@ -3,7 +3,7 @@ layout: default
 title: Individual Assignment
 nav_order: 1
 grand_parent: "Assignments"
-parent: "Assignment 3: Creating Machine Learning Models with Structured Data"
+parent: "Assignment 3: Train, Evaluate, and Integrate Machine Learning Models"
 ---
 
 # Individual Assignment
