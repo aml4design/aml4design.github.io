@@ -3,7 +3,7 @@ layout: default
 title: Group Assignment
 nav_order: 2
 grand_parent: "Assignments"
-parent: "Assignment 3: Creating Machine Learning Models with Structured Data"
+parent: "Assignment 3: Train, Evaluate, and Integrate Machine Learning Models"
 ---
 
 # Group Assignment
