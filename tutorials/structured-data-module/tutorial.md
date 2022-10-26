@@ -22,7 +22,7 @@ This tutorial assumes that you have a basic understanding of Python programming.
 
 We also recommend taking a look at the following Python course documentation:
 
-- [https://datacentricdesign.github.io/code/computational-thinking/](https://datacentricdesign.github.io/code/computational-thinking/)
+- [https://datacentricdesign.github.io/iob22/computational-thinking/](https://datacentricdesign.github.io/iob22/computational-thinking/)
 
 This tutorial will familiarize you with the machine learning pipeline of processing structured data, using a real-world example of building a model to predict the presence of bad smell events in Pittsburgh using air quality and weather data, as indicated in the following figure. The model is used to send push notifications about bad smell events to inform citizens. The geographical regions that we use is in Figure 6 in the Smell Pittsburgh paper.
 
