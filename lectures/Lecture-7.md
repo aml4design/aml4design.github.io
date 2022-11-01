@@ -2,7 +2,7 @@
 layout: default
 title: "Lecture 7: Train, Evaluate, and Integrate Machine Learning Models (part 2)"
 has_children: false
-# parent: "Lectures"
+parent: "Lectures"
 nav_order: 7
 nav_exclude: false
 ---
