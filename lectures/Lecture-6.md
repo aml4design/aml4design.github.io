@@ -4,7 +4,7 @@ title: "Lecture 6: Train, Evaluate, and Integrate Machine Learning Models (part 
 has_children: false
 parent: "Lectures"
 nav_order: 6
-nav_exclude: false
+nav_exclude: true #hiding lecture before course starts
 ---
 
 # Train, Evaluate, and Integrate Machine Learning Models (part 1)
