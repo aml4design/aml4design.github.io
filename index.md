@@ -4,7 +4,7 @@ title: Home
 nav_order: 0
 ---
 
-# Welcome to the 2022/2023 Edition of the Advanced Machine Learning for Design Course
+# Welcome to the 2023/2024 Edition of the Advanced Machine Learning for Design Course
 
 <p align="center">
   <img src="/assets/images/aml4d_home.jpg" />
@@ -36,8 +36,8 @@ ML systems can do, and how they could and should be integrated in iPSSs.
 
 This website contains all the materials required to attend and succefully complete the course. 
 
-The course is organized into an introductory week and 3x modules, consisting of weekly cycles, combining theory and practice. The final exam will take place on Friday, Nov. 11,
-2022.
+The course is organized into an introductory week and 3x modules, consisting of weekly cycles, combining theory and practice. The final exam will take place on Friday, Nov. 10,
+2023.
 
 - **Introduction (Week 1): AI and ML in iPSSs**. In this week, you will be introduced to the role that Artificial Intelligence and, more specifically,
 Machine Learning technology play in iPSSs, in their design process, and in their lifecycle.
