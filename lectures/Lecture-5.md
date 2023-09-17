@@ -2,7 +2,7 @@
 layout: default
 title: "Lecture 5: Machine Learning for Image Processing (part 2)"
 has_children: false
-parent: "Lectures"
+#parent: "Lectures"
 nav_order: 5
 nav_exclude: true #hiding lecture before course starts
 ---
