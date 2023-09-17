@@ -5,7 +5,7 @@ Language Processing (part 2)"
 has_children: false
 parent: "Lectures"
 nav_order: 3
-# nav_exclude: false
+nav_exclude: true #hiding lecture before course starts
 ---
 
 # Machine Learning for Natural Language Processing (part 2)
