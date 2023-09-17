@@ -2,9 +2,9 @@
 layout: default
 title: "Lecture 1: Introduction to Machine Learning"
 has_children: false
-parent: "Lectures"
+<!--parent: "Lectures"
 nav_order: 1
-nav_exclude: true #hiding lecture
+nav_exclude: true hiding lecture-->
 ---
 
 # Artificial Intelligence and Machine Learning in Intelligent Products, Services, and Systems (design)
