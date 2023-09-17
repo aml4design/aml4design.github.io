@@ -3,7 +3,7 @@ layout: default
 title: "Lecture 2: Machine Learning for Natural
 Language Processing (part 1)"
 has_children: false
-parent: "Lectures"
+#parent: "Lectures"
 nav_order: 2
 nav_exclude: true #hiding lecture before course starts
 ---
