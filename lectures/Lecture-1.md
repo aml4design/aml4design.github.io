@@ -2,9 +2,9 @@
 layout: default
 title: "Lecture 1: Introduction to Machine Learning"
 has_children: false
-#parent: "Lectures"
+parent: "Lectures"
 nav_order: 1
-nav_exclude: true
+#nav_exclude: true
 ---
 
 # Artificial Intelligence and Machine Learning in Intelligent Products, Services, and Systems (design)
@@ -22,7 +22,7 @@ nav_exclude: true
 
 ## Lecture Slides
 
-- [Lecture 1 Slides]({{site.baseurl}}/assets/slides/AML4D-L1.pdf) (PDF - 47Mb)
+- [Lecture 1 Slides]({{site.baseurl}}/assets/slides/2023-AML4D-L1.pdf) (PDF - 47Mb)
 
 ## Lecture Notes
 
