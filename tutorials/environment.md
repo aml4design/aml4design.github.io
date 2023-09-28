@@ -45,7 +45,7 @@ Click on the blue button `+` on the top-right corner.
 
 Fill in the project name in the pop-up window and click on the blue button at the bottom: 'Create Repl'.
 
-![Name your repl]({{site.baseurl}}/assets/images/fill_in_repl_name.png)
+![Name your repl]({{site.baseurl}}/assets/images/fill_in_repl_name2.png)
 
 # Explore the _Replit_ Layout
 
