@@ -3,9 +3,9 @@ layout: default
 title: "Lecture 2: Machine Learning for Natural
 Language Processing (part 1)"
 has_children: false
-#parent: "Lectures"
+parent: "Lectures"
 nav_order: 2
-nav_exclude: true #hiding lecture before course starts
+#nav_exclude: true #hiding lecture before course starts
 ---
 
 #  Machine Learning for Natural Language Processing (part 1)
@@ -24,7 +24,7 @@ nav_exclude: true #hiding lecture before course starts
 
 ## Lecture Slides
 
-- [Lecture 2 Slides]({{site.baseurl}}/assets/slides/AML4D-L2.pdf) (PDF-16 Mb)
+- [Lecture 2 Slides]({{site.baseurl}}/assets/slides/2023-AML4D-L2.pdf) (PDF-16 Mb)
 
 ## Lecture Notes
 
