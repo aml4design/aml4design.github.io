@@ -2,9 +2,9 @@
 layout: default
 title: "Lecture 4: Machine Learning for Image Processing (part 1)"
 has_children: false
-#parent: "Lectures"
+parent: "Lectures"
 nav_order: 4
-nav_exclude: true #hiding lecture before course starts
+#nav_exclude: true #hiding lecture before course starts
 ---
 
 # Machine Learning for Image Processing (part 1)
@@ -21,7 +21,7 @@ nav_exclude: true #hiding lecture before course starts
 
 ## Lecture Slides
 
-- [Lecture 4 Slides]({{site.baseurl}}/assets/slides/AML4D-L4.pdf) (PDF - 15 Mb)
+- [Lecture 4 Slides]({{site.baseurl}}/assets/slides/2023-AML4D-L4.pdf) (PDF - 15 Mb)
 
 ## Lecture Notes
 
