@@ -2,9 +2,9 @@
 layout: default
 title: "Lecture 6: Train, Evaluate, and Integrate Machine Learning Models (part 1)"
 has_children: false
-#parent: "Lectures"
+parent: "Lectures"
 nav_order: 6
-nav_exclude: true #hiding lecture before course starts
+#nav_exclude: true #hiding lecture before course starts
 ---
 
 # Train, Evaluate, and Integrate Machine Learning Models (part 1)
@@ -24,7 +24,7 @@ nav_exclude: true #hiding lecture before course starts
 
 ## Lecture Slides
 
-- [Lecture 6 Slides]({{site.baseurl}}/assets/slides/AML4D-L6.pdf) (PDF - 22 Mb)
+- [Lecture 6 Slides]({{site.baseurl}}/assets/slides/2023-AML4D-L6.pdf) (PDF - 22 Mb)
 
 ## Lecture Notes
 
