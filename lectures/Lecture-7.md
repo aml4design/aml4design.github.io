@@ -2,9 +2,9 @@
 layout: default
 title: "Lecture 7: Train, Evaluate, and Integrate Machine Learning Models (part 2)"
 has_children: false
-#parent: "Lectures"
+parent: "Lectures"
 nav_order: 7
-nav_exclude: true #hiding lecture before course starts
+#nav_exclude: true #hiding lecture before course starts
 ---
 
 # Lecture 7: Train, Evaluate, and Integrate Machine Learning Models (part 2)
@@ -17,7 +17,7 @@ nav_exclude: true #hiding lecture before course starts
 
 ## Lecture Slides
 
-- [Lecture 7 Slides]({{site.baseurl}}/assets/slides/AML4D-L7.pdf) (PDF - 3Mb)
+- [Lecture 7 Slides]({{site.baseurl}}/assets/slides/2023-AML4D-L7.pdf) (PDF - 3Mb)
 
 ## Lecture Notes
 
